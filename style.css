@@ -1,0 +1,21 @@
+/*Style Slider */
+
+.carousel-item {
+	height: 500px;
+}
+
+.carousel-item .display-4 {
+	margin-top: -320px;
+	color: white;
+}
+
+.carousel-item p {
+	color: white;
+	font-size: 25px;
+}
+
+.carousel-item hr {
+	border-color: white;
+	width: 100px;
+	border-width: 3px;
+}
